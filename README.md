@@ -10,3 +10,7 @@ Theaa
 <p>This is a basic HTML file.</p>
 </body>
 </html>
+git init
+git commit -m "Initial commit: Added basic HTML file"
+git remote add origin <repository url>
+git push -u origin main
